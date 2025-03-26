@@ -30,7 +30,7 @@ const Projects: React.FC = () => {
 
   /* ===== check arg is valid ===== */
   const checkArg = () =>
-    isArgInvalid(arg, "go", ["1", "2", "3", "4"]) ? (
+    isArgInvalid(arg, "go", ["1", "2", "3", "4", "5", "6"]) ? (
       <Usage cmd="projects" />
     ) : null;
 
@@ -62,8 +62,8 @@ const projects = [
   },
   {
     id: 2,
-    title: "Haru Fashion",
-    desc: "An ecommerce web application where users can browse various products and make purchases.",
+    title: "QR Code Generator",
+    desc: "A website where when you write a text and click generate, it generates a QR code for you.",
     url: "https://haru-fashion.vercel.app/",
   },
   {
@@ -78,6 +78,18 @@ const projects = [
     desc: "A minimal, accessible and SEO-friendly Astro blog theme.",
     url: "https://astro-paper.pages.dev/",
   },
+  {
+    id: 5,
+    title: " Blog Theme",
+    desc: "A minimal, accessible and SEO-friendly Astro blog theme.",
+    url: "https://astro-paper.pages.dev/",
+  },
+  {
+    id: 6,
+    title: "AstroPaper Blog Theme",
+    desc: "A minimal, accessible and SEO-friendly Astro blog theme.",
+    url: "https://astro-paper.pages.dev/",
+  }
 ];
 
 export default Projects;
