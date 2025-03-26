@@ -39,8 +39,8 @@ const Projects: React.FC = () => {
   ) : (
     <div data-testid="projects">
       <ProjectsIntro>
-        “Talk is cheap. Show me the code”? I got you. <br />
-        Here are some of my projects you shouldn't misss
+        Code it till you own it!!,  I got you. <br />
+        Here are some of my projects you shouldn't misss out
       </ProjectsIntro>
       {projects.map(({ id, title, desc }) => (
         <ProjectContainer key={id}>
@@ -56,9 +56,9 @@ const Projects: React.FC = () => {
 const projects = [
   {
     id: 1,
-    title: "Sat Naing's Blog",
-    desc: "My personal blog where I can write down my thoughts and experiences.",
-    url: "https://satnaing.dev/blog/",
+    title: "Appointment Management System",
+    desc: "A mangagement system that handles appointments, useful to anyone.",
+    url: "https://appointment-management-sys.vercel.app/",
   },
   {
     id: 2,
