@@ -63,15 +63,9 @@ const socials = [
   },
   {
     id: 3,
-    title: "Facebook",
-    url: "https://www.facebook.com/satnaing.dev",
-    tab: 1,
-  },
-  {
-    id: 4,
     title: "Instagram",
-    url: "https://instagram.com/satnaing.dev",
-    tab: 0,
+    url: "https://www.instagram.com/p.vaans?igsh=b3RwbzVodGVlaHhx",
+    tab: 1,
   },
 ];
 
