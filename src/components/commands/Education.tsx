@@ -25,8 +25,8 @@ const eduBg = [
     desc: "Kabarak University | 2024 - Present",
   },
   {
-    title: "Graphic Designing Internship",
-    desc: "Rift Koders & Rift Insurance | March 2025 - Present",
+    title: "Full-Stack Engineering Student",
+    desc: "Rift Koders | November 2024 - Present",
   },
 ];
 
