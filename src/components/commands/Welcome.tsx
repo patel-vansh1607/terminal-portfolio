@@ -34,11 +34,11 @@ const Welcome: React.FC = () => {
           `}
           </PreNameMobile>
         </PreWrapper>
-        <div>Welcome to my terminal portfolio. (Version 1.3.1)</div>
+        <div>Welcome to Vansh Patel's Portfolio</div>
         <Seperator>----</Seperator>
         <div>
-          This project's source code can be found in this project's{" "}
-          <Link href="https://github.com/satnaing/terminal-portfolio">
+          Visit my{" "}
+          <Link href="https://github.com/patel-vansh1607">
             GitHub repo
           </Link>
           .
