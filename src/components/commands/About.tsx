@@ -11,7 +11,7 @@ const About: React.FC = () => {
         Hi, my name is <HighlightSpan>Vansh Patel</HighlightSpan>!
       </p>
       <p>
-        I'm <HighlightAlt>a
+        I'm <HighlightAlt>a :
            <ul>
                 <li>Full-Stack Engineering Student.</li>
                 <li>Video Editor.</li>
