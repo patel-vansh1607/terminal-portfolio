@@ -56,28 +56,60 @@ const Projects: React.FC = () => {
 const projects = [
   {
     id: 1,
-    title: "Sat Naing's Blog",
-    desc: "My personal blog where I can write down my thoughts and experiences.",
-    url: "https://satnaing.dev/blog/",
+    title: "Appointment Management System",
+    desc: "A mangagement system that handles appointments, useful to anyone.",
+    url: "https://appointment-management-sys.vercel.app/",
   },
   {
     id: 2,
-    title: "Haru Fashion",
-    desc: "An ecommerce web application where users can browse various products and make purchases.",
-    url: "https://haru-fashion.vercel.app/",
+    title: "QR Code Generator",
+    desc: "A website where when you write a text and click generate, it generates a QR code for you.",
+    url: "https://qr-code-generator-gamma-sage.vercel.app/",
   },
   {
     id: 3,
-    title: "Haru API",
-    desc: "A RESTful API developed for the Haru fashion ecommerce project.",
-    url: "https://satnaing.github.io/haru-api/",
+    title: "Language Translator",
+    desc: "A platform where you can translate text from one language to another.",
+    url: "https://language-translator-six-nu.vercel.app/",
   },
   {
     id: 4,
-    title: "AstroPaper Blog Theme",
-    desc: "A minimal, accessible and SEO-friendly Astro blog theme.",
-    url: "https://astro-paper.pages.dev/",
+    title: "Jokes Generator",
+    desc: "A platform where you it displays a joke from an API",
+    url: "https://jokes-generator-sage.vercel.app/",
+  },
+  {
+    id: 5,
+    title: " Open AI",
+    desc: "A Chatbot AI that answers all your questions",
+    url: "https://open-ai-sigma-nine.vercel.app/",
+  },
+  {
+    id: 6,
+    title: "Greencan",
+    desc: "------",
+    url: "https://greencan-mu.vercel.app/",
+  },
+  {
+    id: 7,
+    title: "Capstone Portfolio 1",
+    desc: "My Captstone Porject in which I created my own portfolio using a figma design",
+    url: "https://capstone-project-mod-1.vercel.app/",
+  },
+  {
+    id: 8,
+    title: "Calculator - HTML",
+    desc: "A simple calculator using HTML, CSS, and JavaScript.",
+    url: "https://calculator-app-rose-pi.vercel.app/",
+  },
+  {
+    id: 9,
+    title: "HTML Forms",
+    desc: "A project showcasing various types of HTML forms with validations.",
+    url: "https://greencan-mu.vercel.app/",
   },
 ];
+
+
 
 export default Projects;
