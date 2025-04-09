@@ -52,27 +52,22 @@ const socials = [
   {
     id: 1,
     title: "GitHub",
-    url: "https://github.com/satnaing",
+    url: "https://github.com/patel-vansh1607",
     tab: 3,
   },
   {
     id: 2,
-    title: "Dev.to",
-    url: "https://dev.to/satnaing",
+    title: "Linked In",
+    url: "https://www.linkedin.com/in/vansh-patel-72650b26a/",
     tab: 3,
   },
   {
     id: 3,
-    title: "Facebook",
-    url: "https://www.facebook.com/satnaing.dev",
+    title: "Instagram",
+    url: "https://www.instagram.com/p.vaans?igsh=b3RwbzVodGVlaHhx",
     tab: 1,
   },
-  {
-    id: 4,
-    title: "Instagram",
-    url: "https://instagram.com/satnaing.dev",
-    tab: 0,
-  },
 ];
+
 
 export default Socials;
